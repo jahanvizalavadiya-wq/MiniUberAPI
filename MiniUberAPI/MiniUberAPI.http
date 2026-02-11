@@ -1,0 +1,6 @@
+@MiniUberAPI_HostAddress = http://localhost:5001
+
+GET {{MiniUberAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
